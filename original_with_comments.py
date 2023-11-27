@@ -1,3 +1,5 @@
+# Commentary done by Wardah Anwer
+
 # Importing essential libraries
 import pygame  # Pygame facilitates the import of all necessary modules for game development
 import time  # The time module represents time in code using objects, numbers, and strings, offering various time-related functionalities
